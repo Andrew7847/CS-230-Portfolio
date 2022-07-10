@@ -1,7 +1,7 @@
 # CS-230-Portfolio
 
 1.
-This design project was for the client The Gaming Room, a game company that has a successful mobile game called "Draw It or Lose      It". The client requested we build a web-based version of their existing game which could be played on multiple platforms such as Mac, Windows, Linux, etc. 
+This design project was for the client The Gaming Room, a game company that has a successful mobile game called "Draw It or Lose It". The client requested we build a web-based version of their existing game which could be played on multiple platforms such as Mac, Windows, Linux, etc. 
 
 2.
 One thing I did particularly well with the design documentation was the summary of the advantages and disadvantages of each operating platform which would help the client ultimately decide which platform the game would be developed on. 
